@@ -1,0 +1,9 @@
+{
+  "name": "next-aws-lambda",
+  "version": "1.0.0",
+  "files": [
+    "lib/**",
+    "index.js"
+  ],
+  "main": "index.js"
+}
